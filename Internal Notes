@@ -1,0 +1,7 @@
+1. Create a LLM using specified data (This should be discussed at some point)
+2. Ensure the LLM has the ability to add data and remove duplicates (Hopefully automatically). 
+3. Encrypt the data and create an internal key that the finished code can use to dycrypt the data. 
+4. Create a logic system that is as efficient as possible. 
+5. Create a system that can take a message as an input and generate an output using the LLM. 
+6. Allow for information to be read not only from the LLM but the computers drive as well. 
+7. Allow for file generation. 
